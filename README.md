@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A knowledge nomad</h3>
 
-- 🔭 I’m currently working on [GestionExpedienteElectronico](https://github.com/darbela4/GestionExpedienteElectronico)
+- 🔭 I’m currently working on [GestionExpedienteElectronico](https://github.com/HammerDev99/GestionExpedienteElectronico_Version1)
 
 - 🌱 I’m currently learning **Python and web development**
 
