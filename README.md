@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python and web development**
 
-- 📫 How to reach me **arbe.94@hotmail.com**
-
 - ⚡ Fun fact **I consider that I am passionate about new challenges**
 
 <h3 align="left">Connect with me:</h3>
