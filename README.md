@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GestionExpedienteElectronico](https://github.com/HammerDev99/GestionExpedienteElectronico_Version1)
 
-- 🌱 I’m currently learning **Python and web development**
+- 🌱 I’m currently develop in **Python**
 
 - ⚡ Fun fact **I consider that I am passionate about new challenges**
 
