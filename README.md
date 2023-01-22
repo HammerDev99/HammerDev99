@@ -2,12 +2,27 @@
 <h3 align="center">A knowledge nomad and a software engineer</h3>
 
 - I’m currently working on [GestionExpedienteElectronico](https://github.com/HammerDev99/GestionExpedienteElectronico_Version1)
-
 - I’m currently develop in **Python** an **Java**
 
-- Fun fact **I consider that I am passionate about new challenges**
+<h4 align="center">
+<!--random gif-->
+<p align="center"><img width="50%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" /></p>
 
-<h3 align="left">Some Tools I Have Used and Learned:</h3>
+<!--badges https://dev.to/envoy_/150-badges-for-github-pnk-->
+<p align="left">
+<img alt="https://twitter.com/daainti" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<img alt="mailto:arbe.94@hotmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img alt="https://www.linkedin.com/in/daainti/" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="GitHub badge" />
+<img alt="https://www.instagram.com/daainti/" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img alt="https://www.facebook.com/daainti" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</p>
+
+<!--github info https://github.com/anuraghazra/github-readme-stats-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerDev99&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/?username=HammerDev99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+</h4>
+
+<h3 align="left">Some tools I have used and learned:</h3>
 <!--Badges source https://github.com/Ileriayo/markdown-badges-->
 <p align="left"> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" width="" height=""/>
@@ -28,15 +43,4 @@
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
 <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
-</p>
-
-<h4 align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerDev99&layout=compact">
-</h4>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daainti/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/daainti/"/></a>
-<a href="mailto:daniel.arbelaez.alvarez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="https://www.instagram.com/daainti">
 </p>
