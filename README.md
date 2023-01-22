@@ -5,10 +5,10 @@
 - I’m currently develop in **Python** an **Java**
 
 <!--random gif-->
-<p align="center"><img width="80%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" /></p>
+<p align="center"><img width="70%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" /></p>
 
 <!--badges https://dev.to/envoy_/150-badges-for-github-pnk-->
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/daainti">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
@@ -16,8 +16,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/daainti/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&
-style=for-the-badge" />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://www.instagram.com/daainti/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
