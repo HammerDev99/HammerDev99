@@ -9,15 +9,15 @@
 
 <!--badges https://dev.to/envoy_/150-badges-for-github-pnk-->
 <p align="left">
-<a href="">
-<img alt="https://twitter.com/daainti" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a href="https://twitter.com/daainti">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <a href="mailto:arbe.94@hotmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/daainti/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&
-style=for-the-badge" alt="GitHub badge" />
+style=for-the-badge" />
 </a>
 <a href="https://www.instagram.com/daainti/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -28,8 +28,9 @@ style=for-the-badge" alt="GitHub badge" />
 </p>
 
 <!--github info https://github.com/anuraghazra/github-readme-stats-->
-<p align="center" vertical-align="middle">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerDev99&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"><img src="https://github-readme-stats.vercel.app/api/?username=HammerDev99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerDev99&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/?username=HammerDev99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>
 
 <h3 align="left">Some tools I have used and learned:</h3>
