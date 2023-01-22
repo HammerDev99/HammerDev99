@@ -4,9 +4,8 @@
 - I’m currently working on [GestionExpedienteElectronico](https://github.com/HammerDev99/GestionExpedienteElectronico_Version1)
 - I’m currently develop in **Python** an **Java**
 
-<h4 align="center">
 <!--random gif-->
-<p align="center"><img width="50%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" /></p>
+<p align="center"><img width="100%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" /></p>
 
 <!--badges https://dev.to/envoy_/150-badges-for-github-pnk-->
 <p align="left">
@@ -18,9 +17,10 @@
 </p>
 
 <!--github info https://github.com/anuraghazra/github-readme-stats-->
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerDev99&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/?username=HammerDev99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-</h4>
+</p>
 
 <h3 align="left">Some tools I have used and learned:</h3>
 <!--Badges source https://github.com/Ileriayo/markdown-badges-->
