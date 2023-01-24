@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A knowledge nomad and a software engineer</h3>
+<h3 align="center">A knowledge nomad</h3>
 
+<!--PENDIENTE COMPLETAR INFORMACION-->
 - I’m currently working on [GestionExpedienteElectronico](https://github.com/HammerDev99/GestionExpedienteElectronico_Version1)
-- I’m currently develop in **Python** an **Java**
+- I’m currently develop in **Python** and **Java**
 
 <!--random gif-->
-<p align="center"><img width="70%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" /></p>
+<p align="center"><img width="60%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" /></p>
 
-<!--badges https://dev.to/envoy_/150-badges-for-github-pnk-->
+<!--badges https://dev.to/envoy_/150-badges-for-github-pnk -->
 <p align="center">
 <a href="https://twitter.com/daainti">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -17,12 +18,6 @@
 </a>
 <a href="https://www.linkedin.com/in/daainti/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.instagram.com/daainti/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.facebook.com/daainti">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 </p>
 
