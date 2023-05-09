@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A knowledge nomad</h3>
 
-<!--PENDIENTE COMPLETAR INFORMACION-->
-- I’m currently working on [GestionExpedienteElectronico](https://github.com/HammerDev99/GestionExpedienteElectronico_Version1)
-- I’m currently develop in **Python** and **Java**
-
-<!--random gif-->
-<p align="center"><img width="60%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" /></p>
-
 <!--badges https://dev.to/envoy_/150-badges-for-github-pnk -->
 <p align="center">
 <a href="https://twitter.com/hammerdev99">
@@ -20,6 +13,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a> -->
 </p>
+
+<!--PENDIENTE COMPLETAR INFORMACION-->
+- I’m currently working on [GestionExpedienteElectronico](https://github.com/HammerDev99/GestionExpedienteElectronico_Version1)
+- I’m currently develop in **Python** and **Java**
+
+<!--random gif-->
+<p align="center"><img width="60%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" /></p>
 
 <!--github info https://github.com/anuraghazra/github-readme-stats-->
 <p align="center">
