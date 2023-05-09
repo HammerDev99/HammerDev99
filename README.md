@@ -13,9 +13,9 @@
 <a href="https://twitter.com/hammerdev99">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="mailto:arbe.94@hotmail.com">
+<!-- <a href="mailto:arbe.94@hotmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<!-- </a>
+</a>
 <a href="https://www.linkedin.com/in/daainti/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a> -->
