@@ -46,7 +46,7 @@
 <!-- Visualization Tools -->
 <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="rstudio" width="" height=""/>
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi" width="" height=""/>
-Virtualization Tools
+<!-- Virtualization Tools -->
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" width="" height=""/>
 <!-- Web Tecnologies -->
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="" height=""/>
@@ -54,6 +54,6 @@ Virtualization Tools
 <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
 <!-- Operative Systems -->
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kalilinux" width="" height=""/>
-Design Tools
+<!-- Design Tools -->
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" width="" height=""/>
 </p>
