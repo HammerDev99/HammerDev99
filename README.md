@@ -15,7 +15,7 @@
 </p>
 
 <!--PENDIENTE COMPLETAR INFORMACION-->
-- I’m currently working on [GestionExpedienteElectronico](https://github.com/HammerDev99/GestionExpedienteElectronico_Version1)
+- I’m currently working on [GexCom](https://github.com/HammerDev99/GexCom)
 - I’m currently develop in **Python** and **Java**
 
 <!--random gif-->
