@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=79FF97&center=true&vMultiline=false&width=600&lines=Hi%2C+I'm+Daniel+%F0%9F%91%8B;LegalTech+%2B+AI+Developer;Building+in+Justice+%26+Tech" alt="Typing SVG" />
 
 <p>
-  <a href="https://www.linkedin.com/in/daainti/">
+  <a href="https://www.linkedin.com/in/daniel-arbelaez-/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://links.sprintjudicial.com/">
@@ -26,21 +26,9 @@ I work at **Consejo Superior de la Judicatura** and also develop products under 
 
 ---
 
-### What I'm building
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **GexCom** | Platform for judicial electronic case management with AI assistance | Python, Docker, SQL |
-| **TYBABot** | Conversational assistant for Colombia's Justicia XXI (Tyba) judicial system | Python, OpenAI, Streamlit |
-| **FocusCoach** | AI-powered personal coaching platform using DISC methodology | Python, Streamlit, LLM |
-| **AgilEx** | Agile management system for judicial offices | Python, Docker |
-| **SIRAL** | Intelligent system for judicial process traceability | Python, PostgreSQL |
-| **sherlock-docs** | Internal document intelligence tooling | Python, RAG |
-
----
-
 ### Tech stack
 
+<div align="center">
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
@@ -94,22 +82,17 @@ I work at **Consejo Superior de la Judicatura** and also develop products under 
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
-### GitHub stats
+### What I'm building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HammerDev99&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammerDev99&layout=compact&title_color=79ff97&text_color=9f9f9f&bg_color=0d1117&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HammerDev99&theme=dark&hide_border=true&background=0D1117&stroke=79FF97&ring=79FF97&fire=FF6B6B&currStreakLabel=79FF97" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HammerDev99&color=79ff97&style=flat-square&label=Profile+views" />
-</p>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **GexCom** | Platform for judicial electronic case management with AI assistance | Python, Docker, SQL |
+| **TYBABot** | Conversational assistant for Colombia's Justicia XXI (Tyba) judicial system | Python, OpenAI, Streamlit |
+| **FocusCoach** | AI-powered personal coaching platform using DISC methodology | Python, Streamlit, LLM |
+| **AgilEx** | Agile management system for judicial offices | Python, Docker |
+| **SIRAL** | Intelligent system for judicial process traceability | Python, PostgreSQL |
+| **sherlock-docs** | Internal document intelligence tooling | Python, RAG |
